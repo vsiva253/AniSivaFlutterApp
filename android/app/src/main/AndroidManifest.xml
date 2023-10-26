@@ -2,7 +2,7 @@
     package="com.example.tako_play">
     <uses-permission android:name="android.permission.INTERNET"/>
    <application
-        android:label="TakoPlay"
+        android:label="AniSiva"
         android:icon="@mipmap/ic_launcher"
         android:usesCleartextTraffic="true" >
         <activity

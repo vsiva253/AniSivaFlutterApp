@@ -20,11 +20,11 @@ class AboutAppScreen extends StatelessWidget {
           ),
           const ListTile(
             title: Text('Creator'),
-            subtitle: Text('Kaung Satt Hein'),
+            subtitle: Text('Siva'),
           ),
           const ListTile(
             title: Text('Contributors'),
-            subtitle: Text('DDavidPrime, CntrlX'),
+            subtitle: Text('Siva'),
           ),
           ListTile(
             onTap: () => _launchUrl(takoPlay),
